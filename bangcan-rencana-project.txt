@@ -1,10 +1,13 @@
 RENCANA PROJECTAN
 - KALKULATOR
-  * statis pada githubpages saya
+  * statis pada githubpages saya 
     - Kalkulus
     - Scientific
 - MEMBUAT SEBUAH WEB UNTUK KELAS 
 - APLIKASI STORE DATA
+  - PHP 
+- APLIKASI STORE DATA
   - PHP
+  - JavaScript 
 - APLIKASI LIST JADWAL
 - APLIKASI DAFTAR BELANJA
