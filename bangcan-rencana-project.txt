@@ -2,6 +2,7 @@ RENCANA PROJECTAN
 - KALKULATOR
   * statis pada githubpages saya
     - scientific
+    - handheld
 - MEMBUAT SEBUAH WEB UNTUK KELAS
 - APLIKASI PENJUALAN SEDERHANA
 - APLIKASI STORE DATA
