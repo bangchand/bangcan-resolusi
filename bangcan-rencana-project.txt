@@ -3,9 +3,7 @@ RENCANA PROJECTAN
   * statis pada githubpages saya 
     - Kalkulus
     - Scientific
-- MEMBUAT SEBUAH WEB UNTUK KELAS 
-- APLIKASI STORE DATA
-  - PHP 
+- MEMBUAT SEBUAH WEB UNTUK KELAS  
 - APLIKASI STORE DATA
   - PHP
   - JavaScript 
